@@ -21,4 +21,8 @@ The primary goal of this project is to classify emails as spam or not spam, base
    - Feature extraction using techniques like TF-IDF (Term Frequency-Inverse Document Frequency).
 3. **Exploratory Data Analysis (EDA):** Identified key patterns and distributions within the dataset to guide preprocessing decisions.
 4. **Model Training:** Applied the Naive Bayes Classifier algorithm to build the classification model.
+<<<<<<< HEAD
 5. **Evaluation:** Evaluated the model's performance using various metrics, such as accuracy, and confusion matrix.
+=======
+5. **Evaluation:** Evaluated the model’s performance using various metrics, such as accuracy, precision, and confusion matrix.
+>>>>>>> 4aaa886fe50ae8d46c4080852e12016bbd75ffcd
